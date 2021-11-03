@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "174078523482",
+    "project_id": "rdparties",
+    "storage_bucket": "rdparties.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174078523482:android:9e9057e8d7c76829fbc063",
+        "android_client_info": {
+          "package_name": "com.maksimisu.a3rdparties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174078523482-afrhc17r070b1vsjdb0mo00qg1v0ailp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKbCN08W76RMm07s55U6z7wLSH0Ig7NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174078523482-afrhc17r070b1vsjdb0mo00qg1v0ailp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174078523482:android:012a8bed44fd5709fbc063",
+        "android_client_info": {
+          "package_name": "com.maksimisu.pushnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174078523482-afrhc17r070b1vsjdb0mo00qg1v0ailp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKbCN08W76RMm07s55U6z7wLSH0Ig7NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174078523482-afrhc17r070b1vsjdb0mo00qg1v0ailp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
